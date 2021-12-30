@@ -1,6 +1,8 @@
 # AppiumAndroidTests
 Appium Android Tests
-FOr running tests from root folder
+For running tests from root folder.
+
+Screen Object Model is used as a Design Pattern
 
 Prerequisties- Nodejs and npm installed,
 Have a Mobile Device (Emulator) Available locally
